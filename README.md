@@ -1,6 +1,6 @@
 # Blinkit Sales Dashboard
 
-![Company Logo](https://github.com/aru-b-22/coffee-sql-analysis/blob/main/coffee.png) 
+![Company Logo](https://github.com/aru-b-22/Blinkit-Sql_Analysis/blob/main/blinkit-image.png)
 
 ## Project Overview
 The **Blinkit Sales Dashboard** project analyzes sales, customer segments, marketing performance, inventory management, and delivery performance. It provides actionable insights on top-performing products, categories, customer behavior, and marketing effectiveness. The dashboard integrates multiple data sources to present a holistic view of Blinkit's business performance.
