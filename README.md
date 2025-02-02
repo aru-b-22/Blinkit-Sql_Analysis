@@ -35,7 +35,7 @@ The **Blinkit Sales Dashboard** project analyzes sales, customer segments, marke
    - Evaluated the effectiveness of different marketing channels in generating revenue, helping prioritize channels with the highest ROI.
 
 ## Technologies Used
-- **SQL**: For data extraction and analysis
+- **SQL (MySQL)**
 
 ## Data Sources
 - **Order Items**: Data related to individual order items purchased by customers.
