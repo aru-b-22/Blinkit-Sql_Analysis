@@ -36,9 +36,6 @@ The **Blinkit Sales Dashboard** project analyzes sales, customer segments, marke
 
 ## Technologies Used
 - **SQL**: For data extraction and analysis
-- **Power BI**: For dashboard creation and visualization
-- **Excel**: For data preprocessing and further analysis
-- **Python**: For advanced data analysis and sentiment analysis (if applicable)
 
 ## Data Sources
 - **Order Items**: Data related to individual order items purchased by customers.
@@ -48,11 +45,7 @@ The **Blinkit Sales Dashboard** project analyzes sales, customer segments, marke
 - **Marketing Performance**: Data on the effectiveness of marketing campaigns.
 - **Delivery Performance**: Data on delivery times and performance of delivery partners.
 - **Products**: Information about products, categories, and prices.
-
-## Visualizations
-- **Category-wise Revenue Distribution**
-- **Customer Segment Revenue Breakdown**
-- **Customer Feedback Sentiment Analysis**
+- 
 - **Damaged Inventory Percentage**
 - **Top Marketing Campaigns by ROAS**
 - **On-Time Delivery Performance by Partner**
